@@ -11,7 +11,7 @@ func main() {
 	// 버퍼 : 발신 -> 가득차면 대기, 비어있으면 작동 ->, 수신 -> 비어있으면 대기 , 가득차 있으면 작동
 
 	runtime.GOMAXPROCS(1)
-	ch := make(chan bool, 2)
+	ch := make(chan bool, 4)
 	cnt := 12
 
 	go func() {
