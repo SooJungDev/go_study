@@ -2,19 +2,27 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/PuerkitoBio/goquery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/andybalholm/cascadia" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/frankban/quicktest" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/google/btree" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/google/go-cmp" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/kr/pretty" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/kr/text" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/labstack/echo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/labstack/gommon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/mattn/go-colorable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/mattn/go-isatty" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/peterbourgon/diskv" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/pkg/profile" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/rogpeppe/fastuuid" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/rogpeppe/go-internal" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/shabbyrobe/xmlwriter" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/tealeg/xlsx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/valyala/fasttemplate" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/yhat/scrape" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/yuin/goldmark" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/golang.org/x/crypto" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/golang.org/x/mod" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/golang.org/x/net" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/golang.org/x/sys" vcs="Git" />
